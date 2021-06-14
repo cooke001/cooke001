@@ -2,6 +2,7 @@
 - 👀 I’m interested in embedded systems, web development and C
 - 🌱 I’m currently learning python and about responsive web design
 - 💞️ I’m looking to collaborate on R&D projects, chrome extensions or anything that will give me some experience.
+- 🎵 If you're interested in spatial audio, in particular relating to live settings, get in touch!
 - 📫 How to reach me: me@edwardcooke.co.uk
 
 <!---
